@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+Streamlit
+tqdm
+sentence-transformers
+chromadb
+fastapi
+uvicorn 
+requests
+psutil
